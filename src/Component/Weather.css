@@ -6,12 +6,7 @@
     color: white;
 }
 
-body {
-    background: url(../assets/bgimage.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
+
 
 .heading {
     color: white;
